@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 
 *.egg-info/
+portfolio_optimizer.egg-info
